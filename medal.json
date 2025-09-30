@@ -1,0 +1,17 @@
+{
+  "title": "Medalist",
+  "description": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream…and their tenacity may be the only thing that sees them through. Their destination? The ice…on the world’s stage!",
+  "artist": "Tsurumaikada",
+  "author": "Tsurumaikada",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Medalist.webp/1200px-Medalist.webp.png",
+  "chapters": {
+    "54": {
+      "title": "JGP Final - China Tournament",
+      "volume": "14",
+      "groups": {
+        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/jzcgve/"
+      },
+      "last_updated": "1756047600"
+    }
+  }
+}
