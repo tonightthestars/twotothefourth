@@ -5,9 +5,17 @@
   "author": "Tsurumaikada",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Medalist.webp/1200px-Medalist.webp.png",
   "chapters": {
+    "57.5": {
+      "title": "A Crow's Damp Feathers (2)",
+      "volume": "15",
+      "groups": {
+        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/9vi2n7/"
+      },
+      "last_updated": "1771945200"
+    },
     "57": {
       "title": "A Crow's Damp Feathers",
-      "volume": "14",
+      "volume": "15",
       "groups": {
         "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/lgez7s/"
       },
