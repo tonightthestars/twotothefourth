@@ -5,19 +5,11 @@
   "author": "Tsurumaikada",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Medalist.webp/1200px-Medalist.webp.png",
   "chapters": {
-    "57.5": {
-      "title": "A Crow's Damp Feathers (2)",
-      "volume": "15",
-      "groups": {
-        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/9vi2n7/"
-      },
-      "last_updated": "1771945200"
-    },
     "57": {
       "title": "A Crow's Damp Feathers",
       "volume": "15",
       "groups": {
-        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/lgez7s/"
+        "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/agyva393jy8/"
       },
       "last_updated": "1763996400"
     },
@@ -25,7 +17,7 @@
       "title": "JGP Final China Tournament SP (Part 2)",
       "volume": "14",
       "groups": {
-        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/0ditjp/"
+        "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/924958pr2yn/"
       },
       "last_updated": "1761231600"
     },
@@ -49,7 +41,7 @@
       "title": "The Beast of Fire and Ice Part 3",
       "volume": "13",
       "groups": {
-        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/17ck1x/"
+        "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/a846ze5voyx/"
       },
       "last_updated": "1754492880"
     },
@@ -57,7 +49,7 @@
       "title": "Shinichiro, 24 years old",
       "volume": "13",
       "groups": {
-        "Machi Mizuha Fan Club": "/proxy/api/catbox/chapter/o3358e/"
+        "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/ej7mrblgn4d/"
       },
       "last_updated": "1748440800"
     }
