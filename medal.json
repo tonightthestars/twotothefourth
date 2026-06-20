@@ -1,17 +1,25 @@
 {
   "title": "Medalist",
-  "description": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream... and their tenacity may be the only thing that sees them through. Their destination? The ice... on the world stage!",
+  "description": "Tsukasa, whose dreams were crushed. Inori, left to fend for herself. These two share a dream... and their tenacity may be the only thing that sees them through. Their destination? The ice... on the world stage!\nThis is an unofficial translation. Please continue to support Medalist by buying the official release!!",
   "artist": "Tsurumaikada",
   "author": "Tsurumaikada",
-  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Medalist.webp/1200px-Medalist.webp.png",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Medalist.webp/1280px-Medalist.webp.png",
   "chapters": {
+    "58": {
+      "title": "A Crow's Damp Feathers (Parts 3 and 4)",
+      "volume": "15",
+      "groups": {
+        "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/a846mbzlw7x/"
+      },
+      "last_updated": "1781967600"
+    },
     "57": {
-      "title": "A Crow's Damp Feathers",
+      "title": "A Crow's Damp Feathers (Parts 1 and 2)",
       "volume": "15",
       "groups": {
         "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/agyva393jy8/"
       },
-      "last_updated": "1763996400"
+      "last_updated": "1768750200"
     },
     "56": {
       "title": "JGP Final China Tournament SP (Part 2)",
@@ -19,7 +27,7 @@
       "groups": {
         "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/924958pr2yn/"
       },
-      "last_updated": "1761231600"
+      "last_updated": "1768750200"
     },
     "55": {
       "title": "JGP Final China Tournament SP (Part 1)",
@@ -27,7 +35,7 @@
       "groups": {
         "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/924958pnvyn/"
       },
-      "last_updated": "1758726000"
+      "last_updated": "1762963200"
     },
     "54": {
       "title": "JGP Final - China Tournament",
@@ -35,7 +43,7 @@
       "groups": {
         "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/wl7ldn266yx/"
       },
-      "last_updated": "1756047600"
+      "last_updated": "1759244400"
     },
     "53.7": {
       "title": "The Beast of Fire and Ice Part 3",
@@ -43,7 +51,7 @@
       "groups": {
         "Machi Mizuha Fan Club": "/proxy/api/imgchest/chapter/a846ze5voyx/"
       },
-      "last_updated": "1754492880"
+      "last_updated": "1754488800"
     },
     "53.5": {
       "title": "Shinichiro, 24 years old",
